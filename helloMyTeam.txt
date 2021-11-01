@@ -8,3 +8,7 @@ Myname
 21시48분
 >>>>>>> origin/oneday
 oneday test
+<<<<<<< HEAD
+=======
+이게 맞는건가?
+>>>>>>> 248315b35bafbde0d5b6c4bf08897a160c42683e
