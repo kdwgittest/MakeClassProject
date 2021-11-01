@@ -7,3 +7,5 @@ Myname
 =======
 21시48분
 >>>>>>> origin/oneday
+oneday test
+이게 맞는건가?
