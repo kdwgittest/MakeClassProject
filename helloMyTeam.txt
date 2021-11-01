@@ -1,5 +1,9 @@
 안녕하세요
 Hi
 hello
+<<<<<<< HEAD
 Myname
 박진석
+=======
+21시48분
+>>>>>>> origin/oneday
