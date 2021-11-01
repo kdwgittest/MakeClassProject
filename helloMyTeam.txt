@@ -8,4 +8,7 @@ Myname
 21시48분
 >>>>>>> origin/oneday
 oneday test
+<<<<<<< HEAD
 dw test
+=======
+>>>>>>> 62a2bb0fb9bc73bcfdcbc0b461f06651617e0d78
